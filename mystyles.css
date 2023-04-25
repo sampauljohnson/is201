@@ -1,0 +1,33 @@
+p{
+    font-weight: thin;
+    font-size: 70px
+}
+
+#top{
+    text-decoration:double;
+}
+
+.emphasizedText{
+    font-style:oblique;
+    color: #77bc9d
+}
+
+body{
+    background-color: #303334;
+    color: #f7f8f8;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 10px solid white;
+    padding: 50px;
+    text-align: center;
+}
+ol{
+    list-style-position: inside;
+    text-align: left;
+}
+
+ul{
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 40%; 
+  
+}
